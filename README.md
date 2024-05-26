@@ -20,7 +20,7 @@ Telegram Stream Parser is a Python-based application that uses the aiogram and p
 To install Telegram Stream Parser, clone this repository and install the required dependencies using pip:
 
 ```
-git clone https://github.com/yourusername/telegram-stream-parser.git
+git clone https://github.com/BotYanis/telegram-stream-parser.git
 cd telegram-stream-parser
 pip install -r requirements.txt
 ```
